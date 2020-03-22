@@ -1,0 +1,11 @@
+D:\Users\wangq\Documents\GitHub\hzbis\Indexer\Indexer\bin\Debug\netcoreapp3.1\Indexer.exe
+D:\Users\wangq\Documents\GitHub\hzbis\Indexer\Indexer\bin\Debug\netcoreapp3.1\Indexer.deps.json
+D:\Users\wangq\Documents\GitHub\hzbis\Indexer\Indexer\bin\Debug\netcoreapp3.1\Indexer.runtimeconfig.json
+D:\Users\wangq\Documents\GitHub\hzbis\Indexer\Indexer\bin\Debug\netcoreapp3.1\Indexer.runtimeconfig.dev.json
+D:\Users\wangq\Documents\GitHub\hzbis\Indexer\Indexer\bin\Debug\netcoreapp3.1\Indexer.dll
+D:\Users\wangq\Documents\GitHub\hzbis\Indexer\Indexer\bin\Debug\netcoreapp3.1\Indexer.pdb
+D:\Users\wangq\Documents\GitHub\hzbis\Indexer\Indexer\obj\Debug\netcoreapp3.1\Indexer.csprojAssemblyReference.cache
+D:\Users\wangq\Documents\GitHub\hzbis\Indexer\Indexer\obj\Debug\netcoreapp3.1\Indexer.AssemblyInfoInputs.cache
+D:\Users\wangq\Documents\GitHub\hzbis\Indexer\Indexer\obj\Debug\netcoreapp3.1\Indexer.AssemblyInfo.cs
+D:\Users\wangq\Documents\GitHub\hzbis\Indexer\Indexer\obj\Debug\netcoreapp3.1\Indexer.dll
+D:\Users\wangq\Documents\GitHub\hzbis\Indexer\Indexer\obj\Debug\netcoreapp3.1\Indexer.pdb
